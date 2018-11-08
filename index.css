@@ -1,0 +1,21 @@
+.hero_image{
+    position: absolute;
+    height: 798px;
+    width: auto;
+
+}
+
+.gallery_image{
+    width: 456px;
+    height: 452px;
+
+}
+
+.map_image{
+    width: auto;
+    height: auto;
+}
+
+.footer{
+    background-color: gray;
+}
